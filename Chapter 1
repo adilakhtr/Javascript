@@ -1,0 +1,5 @@
+var name = "Mike";
+var adil = name;
+
+alert("name = "+adil);
+alert("His name is " +adil+ "  and he is a software developer");
